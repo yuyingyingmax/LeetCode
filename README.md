@@ -56,7 +56,7 @@
   
   8.StrStr 实现strStr():实现 strStr() 函数。给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位     置 (从0开始)。
   
-    关于这道题，可以参考[我的博客] (https://blog.csdn.net/qq_25353433/article/details/85336170)
+   关于这道题，可以参考[我的博客] (https://blog.csdn.net/qq_25353433/article/details/85336170)
   
   9.ValidatePalindrome 验证回文字符串:给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。
   
