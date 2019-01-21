@@ -40,5 +40,33 @@
   6.ReverseList 反转链表:反转一个单链表
 
 ## StringDemo
-
+  1.CountAndSay 报数：报数序列是一个整数序列，按照其中的整数的顺序进行报数，得到下一个数。
   
+  2.FirstUniqueChar 字符串中的第一个唯一字符:给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。
+  
+  3.IsAnagram 有效的字母异位词:给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的一个字母异位词。
+  
+  4.LongestCommonPrefix 最长公共前缀:编写一个函数来查找字符串数组中的最长公共前缀。
+  
+  5.MyAtoi 字符串转换整数 (atoi):请你来实现一个 atoi 函数，使其能将字符串转换成整数。
+  
+  6.ReverseInt 整数反转
+  
+  7.ReverseString 反转字符串
+  
+  8.StrStr 实现strStr():实现 strStr() 函数。给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位     置 (从0开始)。
+  
+    关于这道题，可以参考我的博客https://blog.csdn.net/qq_25353433/article/details/85336170
+  
+  9.ValidatePalindrome 验证回文字符串:给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。
+  
+## TreeDemo
+  1.IsSymmetric 对称二叉树:给定一个二叉树，检查它是否是镜像对称的。
+  
+  2.IsValidBST  验证二叉搜索树:给定一个二叉树，判断其是否是一个有效的二叉搜索树。
+  
+  3.LevelOrder 二叉树的层次遍历:给定一个二叉树，返回其按层次遍历的节点值。
+  
+  4.MaxDepth 二叉树的最大深度:给定一个二叉树，找出其最大深度。
+  
+  5.SortedArrayToBST 将有序数组转换为二叉搜索树:将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。
